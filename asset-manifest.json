@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/brakingbad-frases/static/css/main.193d5b5f.chunk.css",
+    "main.js": "/brakingbad-frases/static/js/main.b431dbc1.chunk.js",
+    "main.js.map": "/brakingbad-frases/static/js/main.b431dbc1.chunk.js.map",
+    "runtime-main.js": "/brakingbad-frases/static/js/runtime-main.aca031dc.js",
+    "runtime-main.js.map": "/brakingbad-frases/static/js/runtime-main.aca031dc.js.map",
+    "static/js/2.abec3b13.chunk.js": "/brakingbad-frases/static/js/2.abec3b13.chunk.js",
+    "static/js/2.abec3b13.chunk.js.map": "/brakingbad-frases/static/js/2.abec3b13.chunk.js.map",
+    "index.html": "/brakingbad-frases/index.html",
+    "precache-manifest.b3230f6ff558156fd5b69754515f41b1.js": "/brakingbad-frases/precache-manifest.b3230f6ff558156fd5b69754515f41b1.js",
+    "service-worker.js": "/brakingbad-frases/service-worker.js",
+    "static/css/main.193d5b5f.chunk.css.map": "/brakingbad-frases/static/css/main.193d5b5f.chunk.css.map",
+    "static/js/2.abec3b13.chunk.js.LICENSE.txt": "/brakingbad-frases/static/js/2.abec3b13.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/brakingbad-frases/static/media/logo.427a4adc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aca031dc.js",
+    "static/js/2.abec3b13.chunk.js",
+    "static/css/main.193d5b5f.chunk.css",
+    "static/js/main.b431dbc1.chunk.js"
+  ]
+}
